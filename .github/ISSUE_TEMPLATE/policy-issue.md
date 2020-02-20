@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Describe the user story the policy issue that is blocking it
-***Tell us how the policy (or perceived policy) is stopping someone from doing what they want/need to do. Example:
+***Tell us how the policy (or perceived policy) is stopping someone from doing what they want/need to do. Use this format:
 > [user] needs a way to [do something] in order to [achieve a goal]. But they're blocked from doing it because [policy issue, or perceived barrier].
 
 
@@ -27,4 +27,4 @@ assignees: ''
 
 
 ## List any department goals or metrics that might be impacted by this policy issue. 
-***Example: ARR has a zero waste goal, but public health regulations stop residents from bringing reusable containers to restaurants for leftovers. That is limiting our ability to get to zero waste.*
+***Example: ARR has a zero waste goal, but public health regulations stop residents from bringing reusable containers to restaurants for leftovers. That is limiting our ability to get to zero waste.
